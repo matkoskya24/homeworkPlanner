@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">homeworkPlanner</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_title">Plannermax</string>
+    <string name="slogan">The solution to all your planning needs!</string>
 </resources>
